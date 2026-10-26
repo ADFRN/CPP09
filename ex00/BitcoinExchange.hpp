@@ -6,7 +6,7 @@
 /*   By: afournie <afournie@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/21 14:33:35 by afournie          #+#    #+#             */
-/*   Updated: 2026/10/21 14:34:31 by afournie         ###   ########.fr       */
+/*   Updated: 2026/10/26 16:02:12 by afournie         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 class BitcoinExchange
 {
 	private:
+		int test
 
 	public:
 };

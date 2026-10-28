@@ -6,14 +6,15 @@
 #    By: afournie <afournie@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/09/28 15:32:40 by afournie          #+#    #+#              #
-#    Updated: 2026/10/23 18:19:41 by afournie         ###   ########.fr        #
+#    Updated: 2026/10/28 11:20:14 by afournie         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 SRC_DIR		=	.
 OBJ_DIR		=	obj
 
-SRC			=	main.cpp
+SRC			=	main.cpp			\
+				BitcoinExchange.cpp
 
 INC			=	BitcoinExchange.hpp
 
